@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "TegridyChecker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "Logging__Console__LogLevel__Default": "Debug"
+      }
+    }
+  }
+}
